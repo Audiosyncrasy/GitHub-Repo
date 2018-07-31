@@ -10,5 +10,3 @@ Here is a checklist
 ## Section 2
 
 What shall I write here?
-
-Here's another update
