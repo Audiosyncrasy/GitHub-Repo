@@ -2,7 +2,7 @@
 
 This is some test text
 
-Here is a checklets
+Here is a checklist
 
-- [] Not checked
+- [ ] Not checked
 - [x] checked
