@@ -11,4 +11,4 @@ Here is a checklist
 
 What shall I write here?
 
-This is only a test. Testing 1, 2, 3.
+This is only a test.
